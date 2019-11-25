@@ -1,7 +1,3 @@
-#### Sammar Tahir
-#### G00347526
-
-
 ## Run The Server
 
 * To run the application please download the jar file
@@ -16,3 +12,7 @@
 
 * **Run _"java -jar your-service.jar"_ in order to run the server first**
 * **Run _"GrpcClient.java"_ in order to connect to the server**
+
+
+
+#### Sammar Tahir <br> G00347526

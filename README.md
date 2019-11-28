@@ -18,7 +18,7 @@
 * Download the client the file  
 * Install postman application
 
-* **Run java -jar target grpcClient-0.0.1-SNAPSHOT.jar server userApiConfig.yaml**
+* **Run java -jar target\grpcClient-0.0.1-SNAPSHOT.jar server userApiConfig.yaml**
 * **Run the URL http://localhost:9000/users**
 * Open postman paste the URL above to run tests
 

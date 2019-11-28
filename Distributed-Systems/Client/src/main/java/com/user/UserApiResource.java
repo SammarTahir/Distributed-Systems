@@ -1,6 +1,8 @@
 package com.user;
 
 import com.*;
+import com.grpcproject.User.LoginRequest;
+
 import java.net.URI;
 import java.util.Collection;
 import java.util.HashMap;
@@ -22,7 +24,16 @@ public class UserApiResource {
 
 	// Using a hashMap to store all user information
 	private HashMap<Integer, User> usersMap = new HashMap<>();
+	
+	String testUserId = "test1";
 
+	
+	
+	// Testing Login user
+	// private String testUserID = "test";
+	// private String testPassword = "test";
+	// LoginRequest loginrequest = LoginRequest.newBuilder().setUsername(testUserID ).setPassword(testPassword).build();
+	
 	User newUser;
 	User testUser = new User(0, "Sammar", "email@email.com", "password");
 	User testUser1 = new User(1, "Name", "email", "hashed", "salt");

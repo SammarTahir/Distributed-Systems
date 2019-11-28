@@ -10,7 +10,7 @@
 * Only download the "GrpcClient.java" from this repository https://github.com/SammarTahir/Distributed-Systems-Project
 * Run "GrpcClient.java" class in your IDE of choosing
 
-* **Run _"java -jar your-service.jar"_ in order to run the server first**
+* **Run _"java -jar runnable.jar"_ in order to run the server first**
 * **Run _"GrpcClient.java"_ in order to connect to the server**
 
 ## Run The Client (Testing User Information) Part 2

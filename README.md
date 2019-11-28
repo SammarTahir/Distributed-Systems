@@ -15,7 +15,11 @@
 
 ## Run The Client (Testing User Information) Part 2
 
-More information coming soon
+* Download the client the file  
+* Install postman application
 
+* **Run java -jar target grpcClient-0.0.1-SNAPSHOT.jar server userApiConfig.yaml**
+* **Run the URL http://localhost:9000/users**
+* Open postman paste the URL above to run tests
 
 #### Sammar Tahir <br> G00347526
